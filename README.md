@@ -34,4 +34,4 @@ Step 6: Open the test set
   
 Step 7: Add the csv files mentioned in the test path
 
-Step 5 : Run and Validate
+Step 8: Run and Validate
